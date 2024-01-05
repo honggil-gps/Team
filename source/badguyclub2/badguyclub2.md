@@ -16,4 +16,7 @@ Python, Javascript
 ## MBTI
 ISFP
 
+## Skills
 
+## 마지막 한마디
+아카데미 하는동안 지각하지 않고 성공적으로 프로젝트를 수료하겠습니다!!
