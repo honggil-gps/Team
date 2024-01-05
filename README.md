@@ -1,8 +1,11 @@
 # Team
 팀 테스트 프로젝트
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
+=======
+>>>>>>> 4413ab9e587fef99b4c5abbfe09def17c096455e
 Team
 ====
 
@@ -12,7 +15,6 @@ hello world !
 
 =======
 hello everyone~
->>>>>>> 7d580e442017594e1f2597b926b7e649e7d141df
 >>>>>>> 3d76f26a327edc78e039e2951ffffc42062bf168
 
 
