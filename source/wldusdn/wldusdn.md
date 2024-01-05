@@ -23,6 +23,6 @@
 > <img src="https://img.shields.io/badge/한국사 1급-A5915F?style=flat-square&logo=anydesk&logoColor=000000"/>
 
 **하고 싶은 말**
-> ~
+> 
 
 [홈으로](../../README.md)
