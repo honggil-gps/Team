@@ -19,9 +19,7 @@
  ### 부경대학교 스마트헬스케어학부 4학년 입니다.  
 
 ## MBTI
- #### MBTI는 
-## ENTP 
-#### 입니다.
+#### ENTP 입니다.
 
 ## 취미
  #### 정말 가리는거 없이 다 합니다.  
@@ -32,13 +30,15 @@
 #### Web개발 중 Database/ networking 관련 backend 전반에 관심있습니다.
 
 ## Skills
- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=000000"/>
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=000000"/>  
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=000000"/> 
+ <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=000000"/> 
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=000000"/> 
 
 #### 이 외에도 8개의 달하는 팀프로젝트 중 7개를 조장으로 진행했답니다..?  
 
 ## 마지막 한마디
- 
-</center>
+#### 말하는거 좋아해요~ 부담없이 말 걸으셔도 됩니다! 우리 친해져봐요 ~
 
-[홈으로](../../README.md)
+## [홈으로](../../README.md)
+
+</center>  
