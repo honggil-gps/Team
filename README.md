@@ -1,22 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Team
-팀 테스트 프로젝트
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
-=======
->>>>>>> 4413ab9e587fef99b4c5abbfe09def17c096455e
-Team
-====
-
-<<<<<<< HEAD
-hello world !
-
-
-=======
-hello everyone~
 >>>>>>> 3d76f26a327edc78e039e2951ffffc42062bf168
 
 
