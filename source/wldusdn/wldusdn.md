@@ -1,4 +1,4 @@
-# 지연우 아이앰그라운드
+# 지연우 아이 엠 그라운드 자기소개하기
 
 <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=instagram&logoColor=#E4405F"/>[INSTARGRAM](http://www.instagram.com/yeonu._.31)
 
@@ -9,10 +9,10 @@
 > 정보통신공학전공/4학년
 
 **취미**
-> 요리
+> 요리해 먹는 거 좋아하고, 러닝도 가끔 뛰어요
 
 **관심있는 SW분야**
-> 풀스택 전반
+> 프론트엔드&백엔드 전반
 
 **MBTI**
 > ISTP
