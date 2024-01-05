@@ -8,11 +8,11 @@
 
 |![image.jpg1](https://github.com/honggil-gps/Team/blob/main/source/badguyclub2.jpg) |![image.jpg2](https://github.com/honggil-gps/Team/blob/main/source/honggil-gps.jpg)|
 |--------------------------|-----------------------|
-|:[badguyclub2](source/badguyclub2/badguyclub2.md):| :honggil-gps: |  
+|[badguyclub2](source/badguyclub2/badguyclub2.md)| [honggil](source/honggil-gps/honggil-gps.md)|  
 
 |![image.jpg1](https://github.com/honggil-gps/Team/blob/main/source/jtdurnd.jpg) |![image.jpg2](https://github.com/honggil-gps/Team/blob/main/source/wldusdn.jpg)|
 |--------------------------|-----------------------|
-|:wjtdurnd: | :wldusdn [소개 보러가기](/source/wldusdn/wldusdn.md): | 
+|wjtdurnd| wldusdn [소개 보러가기](/source/wldusdn/wldusdn.md)| 
 
 <center>
 
