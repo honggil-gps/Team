@@ -13,4 +13,7 @@
 ## 관심SW
 Python, Javascript
 
+## MBTI
+ISFP
+
 
