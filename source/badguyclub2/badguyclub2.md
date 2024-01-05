@@ -1,5 +1,5 @@
 # 강라혁 아이앰그라운드
-
+저의 페이지에 오신 것을 환영합니다 👏
 ## SNS  
 <img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=#F6F6F6"/>  
 [페이스북] (https://www.facebook.com/profile.php?id=100003388020081)
@@ -11,7 +11,7 @@
 음악듣기, 영화보기
 
 ## 관심SW
-Python, Javascript
+Python, Java script
 
 ## MBTI
 ISFP
