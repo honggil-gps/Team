@@ -12,7 +12,7 @@
 
 |![image.jpg1](https://github.com/honggil-gps/Team/blob/main/source/jtdurnd.jpg) |![image.jpg2](https://github.com/honggil-gps/Team/blob/main/source/wldusdn.jpg)|
 |--------------------------|-----------------------|
-|wjtdurnd|[wldusdn](/source/wldusdn/wldusdn.md)| 
+|[jtdurnd](source/jtdurnd/jtdurnd.md) | [wldusdn](/source/wldusdn/wldusdn.md)| 
 
 <center>
 
