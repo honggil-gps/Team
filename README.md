@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=I%20am%20ground%207&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=I%20AM%20GROUND%207&fontSize=80)
 
 <center>
 
