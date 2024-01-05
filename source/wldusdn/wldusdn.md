@@ -1,4 +1,4 @@
-# 아이 엠 그라운드 자기소개 하기
+# 지연우 아이앰그라운드
 
 <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=instagram&logoColor=#E4405F"/>[INSTARGRAM](http://www.instagram.com/yeonu._.31)
 
