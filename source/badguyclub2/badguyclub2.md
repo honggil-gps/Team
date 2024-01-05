@@ -1,8 +1,9 @@
 # 강라혁 아이앰그라운드
 저의 페이지에 오신 것을 환영합니다 :clap:
 ## SNS  
-<img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=#F6F6F6"/>  
 [페이스북](https://www.facebook.com/profile.php?id=100003388020081)
+<img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=#F6F6F6"/>  
+
 
 ## 학과
 부산외국어대학교 영어학과 4학년
